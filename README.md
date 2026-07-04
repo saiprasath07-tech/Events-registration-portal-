@@ -17,4 +17,15 @@ MODULES
  2.	Event Management
  3.	Participant Registration
  4.	Registration Tracking
-5.	Reports Management
+ 5.	Reports Management
+
+Front End
+ 1. HTML
+ 2. CSS*Bootstrap
+ 3. React.js
+
+Back End 
+ 1. Java
+ 2. Spring Boot
+
+
