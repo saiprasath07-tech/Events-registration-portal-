@@ -1,6 +1,7 @@
 # Events-registration-portal-
+
 PROBLEM STATEMENT
-                 Managing event registrations manually is time-consuming and prone to errors. Participants often face difficulties in registering for events, and organizers find it difficult to maintain participant records. The Event Registration Portal provides an online platform for event registration, participant management, and event tracking.
+                  Managing event registrations manually is time-consuming and prone to errors. Participants often face difficulties in registering for events, and organizers find it difficult to maintain participant records. The Event Registration Portal provides an online platform for event registration, participant management, and event tracking.
 
 OBJECTIVES
  1.	Create Events
