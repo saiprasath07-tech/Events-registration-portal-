@@ -31,9 +31,9 @@ Database
 1. MySQL
 
 Other Technologies
-1. QR Code Generation
-2. Email Notification
-3. SMS Notification
+ 1. QR Code Generation
+ 2. Email Notification
+ 3. SMS Notification
 
 
 
